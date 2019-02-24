@@ -1,4 +1,4 @@
-# Info
+# Pics
 Pics application uses unsplash's API to display a set of images on user's input.
 
 # Usage
