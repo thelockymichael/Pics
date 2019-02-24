@@ -1,2 +1,2 @@
 # Pics
-To use this application on your own computer — navigate to the 'pics' subfolder and follow the instructions given on the page.
+In order to use this application on your own computer, clone or download the ZIP file and follow the instructions provided in the 'pics' subfolder.
